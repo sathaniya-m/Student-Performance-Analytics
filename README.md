@@ -21,7 +21,7 @@ Student Performance & Result Analytics is a Python-based data analysis project d
 * NumPy
 * Matplotlib
 * Seaborn
-* Jupyter Notebook / Google Colab
+* Google Colab
 * Git & GitHub
 
 ## Features
