@@ -138,6 +138,8 @@ Insights are generated to support academic decision-making and performance impro
 
 * Bar Charts
 * Pie Charts
+* Box plot
+* Heatmap 
 * Line Graphs
 * Dashboard Reports
 
